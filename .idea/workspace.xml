@@ -125,8 +125,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/user" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\blog-and-tweets\resources\views\user" />
+      <recent name="C:\xampp\htdocs\blog-and-tweets\resources\views\entries" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -142,11 +148,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597593894368</updated>
-      <workItem from="1597593895631" duration="652000" />
+      <workItem from="1597593895631" duration="16432000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="794" y="448" key="NewPhpFileDialog" timestamp="1597597622326">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1597597622326" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1597604080658">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1597604080658" />
   </component>
 </project>
