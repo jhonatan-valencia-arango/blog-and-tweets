@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b316cdd-5d30-4c55-b301-9ef23a7206cf" name="Default Changelist" comment="" />
+    <list default="true" id="4b316cdd-5d30-4c55-b301-9ef23a7206cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Entry.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Entry.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/GuestController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/GuestController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_08_16_163309_create_entries_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_08_16_163309_create_entries_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/user/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/user/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -125,7 +138,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/user" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Exceptions" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -148,7 +161,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597593894368</updated>
-      <workItem from="1597593895631" duration="16432000" />
+      <workItem from="1597593895631" duration="20798000" />
+      <workItem from="1597681995447" duration="1699000" />
     </task>
     <servers />
   </component>
@@ -156,6 +170,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="739" y="279" key="FileChooserDialogImpl" timestamp="1597620133729">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1597620133729" />
+    <state x="736" y="247" key="NewPhpClassDialog" timestamp="1597620153259">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="736" y="247" key="NewPhpClassDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1597620153259" />
     <state x="794" y="448" key="NewPhpFileDialog" timestamp="1597597622326">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
