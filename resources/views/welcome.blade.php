@@ -14,7 +14,7 @@
                             <p>{{$entry->content}}</p>
                         </div>
                         <div class="card-footer">
-                            {{ __('textos.author') }} <a href="{{url('users/'.$entry->user_id)}}">{{$entry->user->name}}</a>
+                            {{ __('textos.author') }} <a href="{{url('@'.$entry->user->username)}}">{{$entry->user->name}}</a>
                         </div>
                     </div>
                 @endforeach

@@ -13,11 +13,19 @@
                             {{ session('status') }}
                         </div>
                     @endif
-                    <ul>
-                        @foreach($entries as $entry)
-                            <li><a href="{{$entry->getUrl()}}">{{$entry->title}}</a></li>
-                        @endforeach
-                    </ul>
+                    @if($entries->isEmpty())
+                        <div class="row">
+                            <div class="col-md-12 text-center">
+                                <i>{{__('textos.emptyEntries')}}</i>
+                            </div>
+                        </div>
+                    @else
+                            <ul>
+                            @foreach($entries as $entry)
+                                <li><a href="{{$entry->getUrl()}}">{{$entry->title}}</a></li>
+                            @endforeach
+                        </ul>
+                    @endif
                 </div>
             </div>
         </div>

@@ -13,5 +13,7 @@ return [
     'saveChanges' => 'Save changes',
     'tweets' => 'Tweets',
     'publishedEntries' => 'Published entries:',
+    'userName' => 'User name',
+    'emptyEntries' => '-- You did not publish any entry yet --',
 
 ];

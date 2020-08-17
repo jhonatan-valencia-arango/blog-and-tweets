@@ -19,6 +19,9 @@
                         <a href="{{url('/entries/'.$entry->id.'/edit')}}" class="btn btn-warning">{{__('textos.editEntry')}}</a>
                         @endcan
                 </div>
+                <div class="card-footer">
+                    {{__('textos.author')}} <a href="{{url('@'.$entry->user->username)}}">{{$entry->user->name}}</a>
+                </div>
             </div>
         </div>
     </div>
