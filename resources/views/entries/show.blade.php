@@ -14,10 +14,10 @@
                         </div>
                     @endif
                     {{$entry->content}}
-                        @if($entry->user_id == auth()->id())
+                        @can('update', $entry)
                         <hr>
                         <a href="{{url('/entries/'.$entry->id.'/edit')}}" class="btn btn-warning">{{__('textos.editEntry')}}</a>
-                        @endif
+                        @endcan
                 </div>
             </div>
         </div>
